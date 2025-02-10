@@ -23,6 +23,10 @@ console.log(`Turma do aluno: ${turmaAluno}`);
 turmaAluno = '3C';
 console.log(`Turma do aluno: ${turmaAluno}`);
 
+console.log('alterando o arquivo js, executando um novo commit');
+
+
+
 
 
 
